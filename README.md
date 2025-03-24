@@ -3,5 +3,5 @@ Coffee Shop Sales Analysis is an Excel project that tracks sales, customer trend
 
 Coffee-Shop-Sales 
 
-![image alt]()
+![image alt](https://github.com/tanisha134/Coffee-Shop-Sales-Project/blob/a663b3f137b41b9b01a186885149a11d88ace133/1.png)
  
